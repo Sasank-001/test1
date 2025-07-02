@@ -23,5 +23,18 @@ WebUI.navigateToUrl('https://www.flipkart.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/img_Grocery__2puWtW _3a3qyb'))
 
-WebUI.click(findTestObject('Object Repository/Page_Mobile Phones Online at Best Prices in India/img_Clock Speed_xTaogf'))
+WebUI.setText(findTestObject('Object Repository/Page_Mobile Phones Online at Best Prices in India/input_Plus_q'), 'nothing')
+
+WebUI.click(findTestObject('Object Repository/Page_Mobile Phones Online at Best Prices in India/svg'))
+
+WebUI.click(findTestObject('Object Repository/Page_Nothing- Buy Products Online at Best P_97b95d/img_Bestseller_DByuf4'))
+
+WebUI.switchToWindowTitle('Nothing Phone (3a) ( 128 GB Storage, 8 GB RAM ) Online at Best Price On Flipkart.com')
+
+WebUI.setText(findTestObject('Object Repository/Page_Nothing Phone (3a) ( 128 GB Storage, 8_040d65/input_Delivery_pincodeInputId'), 
+    '534003')
+
+WebUI.click(findTestObject('Object Repository/Page_Nothing Phone (3a) ( 128 GB Storage, 8_040d65/span_Check'))
+
+WebUI.closeBrowser()
 

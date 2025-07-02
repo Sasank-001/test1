@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>8a52be05-c6cb-4b47-b82d-c890a3da22ed</webElementGuid>
+      <webElementGuid>4ae3abd6-8938-4728-a2ea-e8d61fb7d327</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>_2puWtW _3a3qyb</value>
-      <webElementGuid>a88fcd0f-22dc-43f9-aa98-be190de2cc60</webElementGuid>
+      <webElementGuid>1a7fd215-b9e5-42aa-883c-9eb2699044fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Mobiles</value>
-      <webElementGuid>9a82f4c0-9c91-4e1c-adc8-69a69bce55e0</webElementGuid>
+      <webElementGuid>d2d3b6a6-9a7e-4feb-b7f8-2b219503a25c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://rukminim2.flixcart.com/flap/128/128/image/22fddf3c7da4c4f4.png?q=100</value>
-      <webElementGuid>0b16ed43-292c-44a3-93d7-86893b984e08</webElementGuid>
+      <webElementGuid>3e2af7e0-50ee-4f6c-b1d9-a82ec1bc6022</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;q8WwEU&quot;]/div[@class=&quot;_3zsGrb&quot;]/div[@class=&quot;_2-LWwB&quot;]/div[1]/div[@class=&quot;css-175oi2r&quot;]/div[@class=&quot;css-175oi2r&quot;]/div[@class=&quot;css-175oi2r&quot;]/div[@class=&quot;css-175oi2r r-13awgt0 r-1iqfa7g r-60vfwk&quot;]/div[@class=&quot;css-175oi2r r-13awgt0 r-1iqfa7g r-60vfwk&quot;]/div[@class=&quot;_1ui5b4&quot;]/div[@class=&quot;yAlKeh&quot;]/div[@class=&quot;_2L0uxW&quot;]/div[@class=&quot;_3116_u&quot;]/div[@class=&quot;_1yQHx8 _2UnIQ_ _3ak8Rd _2y8Yzt&quot;]/div[1]/div[@class=&quot;css-175oi2r r-13awgt0 r-eqz5dr&quot;]/div[1]/div[1]/div[@class=&quot;_3sdu8W emupdz&quot;]/a[@class=&quot;_1ch8e_&quot;]/div[1]/div[@class=&quot;YBLJE4&quot;]/div[@class=&quot;_3ETuFY&quot;]/div[@class=&quot;_2GaeWJ&quot;]/img[@class=&quot;_2puWtW _3a3qyb&quot;]</value>
-      <webElementGuid>a62da06b-ebe9-46e5-acf0-06d681029d6c</webElementGuid>
+      <webElementGuid>8f156a75-e528-467f-be10-037fb08b67d0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='container']/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/a[2]/div/div/div/div/img</value>
-      <webElementGuid>41510082-0163-4086-bbb3-df9885f915d3</webElementGuid>
+      <webElementGuid>cc179d32-ded9-4ec1-aaa9-ddd2fb097ed2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Mobiles']</value>
-      <webElementGuid>07c71c69-5fd8-4bdc-a09c-5079f2227701</webElementGuid>
+      <webElementGuid>f5911595-5860-49f4-9ff7-7a1962b32755</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]/div/div/div/div/img</value>
-      <webElementGuid>f5e26986-3d58-4feb-ae27-16a7fe215653</webElementGuid>
+      <webElementGuid>21963d65-d815-4665-85e3-2278650d1520</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'Mobiles' and @src = 'https://rukminim2.flixcart.com/flap/128/128/image/22fddf3c7da4c4f4.png?q=100']</value>
-      <webElementGuid>b0d21e97-3971-4f71-bb96-b95c57463ed6</webElementGuid>
+      <webElementGuid>32c63240-759d-4d22-a13c-a039d338b398</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
