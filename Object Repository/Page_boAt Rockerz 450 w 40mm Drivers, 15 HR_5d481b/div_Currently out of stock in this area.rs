@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Currently out of stock in this area</name>
+   <tag></tag>
+   <elementGuidId>deb9d283-6db8-4d27-b01a-826081067309</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[3]/div/div[2]/div[5]/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.nyRpc8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Currently out of stock in this area.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>41da154e-70ef-42fb-8661-99e6047b7c75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nyRpc8</value>
+      <webElementGuid>e07e0b4e-4822-4a0c-ac74-dd64be40bc16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Currently out of stock in this area.</value>
+      <webElementGuid>164bcc7a-fe35-4114-837c-078cf110aad6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_39kFie N3De93 JxFEK3 _48O0EI&quot;]/div[@class=&quot;DOjaWF YJG4Cf&quot;]/div[@class=&quot;DOjaWF gdgoEp col-8-12&quot;]/div[@class=&quot;cPHDOP col-12-12&quot;]/div[@class=&quot;row xO1qhs&quot;]/div[@class=&quot;col col-12-12&quot;]/div[@class=&quot;dYhUKY&quot;]/div[@class=&quot;nyRpc8&quot;]</value>
+      <webElementGuid>a12c1fa7-5f64-4669-bbc7-a07a6918743a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[3]/div/div[2]/div[5]/div/div/div[2]/div</value>
+      <webElementGuid>d43ebb45-9a18-4cb5-9d80-e0cb70082e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✕'])[1]/following::div[2]</value>
+      <webElementGuid>bb1a9f65-16e9-48e8-b676-c8d127575879</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color'])[1]/preceding::div[1]</value>
+      <webElementGuid>cd3dc6c9-b5fb-47a5-a70f-27a334bd9940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aqua Blue'])[1]/preceding::div[2]</value>
+      <webElementGuid>1661d0f4-09b0-454f-ad5d-b480f9cc6149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Currently out of stock in this area.']/parent::*</value>
+      <webElementGuid>9f7c625c-8477-4e9d-9540-27cde887e5ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/div</value>
+      <webElementGuid>0bbdc112-cdf9-4500-a8e9-64ebbf78ffcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Currently out of stock in this area.' or . = 'Currently out of stock in this area.')]</value>
+      <webElementGuid>a07d5e32-c2e9-4188-82aa-3b44f3f2a78f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

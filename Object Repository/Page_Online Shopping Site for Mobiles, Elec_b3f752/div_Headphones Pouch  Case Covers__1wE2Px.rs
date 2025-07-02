@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Headphones Pouch  Case Covers__1wE2Px</name>
+   <tag></tag>
+   <elementGuidId>555288b5-7a76-4e78-ba91-3a5ede0967dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._1wE2Px</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>._1wE2Px</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cfab9c17-6e4d-4ec3-a6c8-d35ee07825e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_1wE2Px</value>
+      <webElementGuid>30b90f34-9a35-4261-ad6c-16eb5c2a349e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;useInterFont en-fonts-loaded&quot;]/body[1]/div[@class=&quot;_1wE2Px&quot;]</value>
+      <webElementGuid>ec716823-17b8-4104-b529-c0544eaf31ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]</value>
+      <webElementGuid>ee20b448-d6f9-4b01-b831-e8ec261d6a10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
